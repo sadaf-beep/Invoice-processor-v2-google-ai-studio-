@@ -1,0 +1,8 @@
+{
+  "name": "Invoice Processor v2",
+  "description": "AI-powered multimodal invoice extraction, audit, line-item reconciliation, fraud detection, and analytics dashboard using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
